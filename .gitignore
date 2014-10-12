@@ -1,3 +1,4 @@
 apikey
 .DS_Store
 .ipynb_checkpoints
+*.svg
