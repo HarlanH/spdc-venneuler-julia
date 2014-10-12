@@ -5,6 +5,8 @@ IJulia Presentation for the __Statistical Programming DC Meetup__
 
 Harlan D. Harris, PhD
 
+https://github.com/HarlanH/spdc-venneuler-julia
+
 How to run
 ----------
 
